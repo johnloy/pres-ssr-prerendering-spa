@@ -1,2 +1,2 @@
-theme : beige
+# theme : beige
 theme-override : assets/styles.css
