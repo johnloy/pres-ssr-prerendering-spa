@@ -1,1 +1,2 @@
-theme : moon
+theme : beige
+theme-override : assets/styles.css
