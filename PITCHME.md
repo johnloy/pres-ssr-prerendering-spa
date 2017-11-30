@@ -64,3 +64,13 @@ Easy hosting
 <p>Every user gets a private app instance.</p>
 <p>Globals be damned!</p>
 </div>
+
+---
+
+<h1 style="position:fixed">Possible Solutions?</h1>
+
+---
+
+<h1 style="position:fixed">Possible Solutions?</h1>
+
+## Pre-rendering
