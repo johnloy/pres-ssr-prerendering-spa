@@ -2,6 +2,17 @@
 
 <span class="fragment">...some food for thought.</span>
 
++++
+<!-- .slide: data-background-transition="none" -->
+<p style="color: red">persistent text<p>
++++
+<!-- .slide: data-background-transition="none" -->
+<p style="color: green; transition: color 3s;">persistent text<p>
++++
+<!-- .slide: data-background-transition="none" -->
+<p>persistent text<p>
++++
+
 ---
 
 ## This is a problem (maybe)
