@@ -146,8 +146,6 @@ The app uses a JAM (Javascript, APIs, Markup) stack
 ## When SSR won't make you sob uncontrollably...
 
 +++
-Fast perceived load time provides demonstrable benefits, and pre-rendering provides an insufficient first paint or simply isn’t possible
-+++
 Content updates very frequently
 +++
 Combinatorial possibilities of content are too many
