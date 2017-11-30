@@ -91,6 +91,10 @@ Blithely debug everything in the browser
   <li class="fragment">Reverse proxy SSR</li>
 </ul>
 
+---?image=https://media.giphy.com/media/xTk9ZNSEaGv7FtKY6s/giphy.gif
+
+<h1 style class="flash">Staticerization!</h1>
+
 ---
 
 ## When Should You Should Give a Heck?
