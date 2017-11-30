@@ -1,13 +1,12 @@
 @keyframes minimize-header {
   to {
-    top: 20px;
-    left: 20px;
-    font-size: 20px;
+    transform: translate(-50px, -50px);
     color: green;
   }
 }
 
-.present .minimized-header {
+.visible.minimized-header {
+  opacity: 1;
   position: absolute;
   animation: minimize-header 2s ease-out;
 }
