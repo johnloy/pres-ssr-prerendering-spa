@@ -125,11 +125,11 @@ You use a SPA framework or stack supporting client side “rehydration”
 ## When pre-rendering isn't the stupidest idea...
 
 +++
-Site content doesn’t change at all over time, or you can re-deploy whenever it does.
+Site content doesn’t change at all over time, or you can re-deploy whenever it does
 +++
 Fast perceived load time provides demonstrable benefits, but SSR proves to be too expensive 
 
-(e.g. complexity, dev hours, maintenance hours).
+(e.g. complexity, dev hours, maintenance hours)
 +++
 Composing UI components into a static html loading experience (Critical Rending Path)
 +++
