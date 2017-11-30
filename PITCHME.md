@@ -11,13 +11,14 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Judo Heroes - A Universal JavaScript demo application with React</title>
+    <title>Dynamic SPA. Hot Shit!</title>
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
-    <div id="main"></div>
+    <div id="app"></div>
     <script src="/js/bundle.js"></script>
   </body>
 </html>
 ```
+
+@[9](Where's the content, yo?) @[10](Right here)
