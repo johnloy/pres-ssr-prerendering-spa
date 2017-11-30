@@ -2,11 +2,12 @@
 
 <span class="fragment">...some food for thought.</span>
 
-+++
+<!-- 
 <div style="position: relative">
 <p style="position: absolute" class="fragment current-visible">persistent text<p>
 <p style="position: absolute" class="fragment current-visible minimized-header">persistent text<p>
 </div>
+-->
 
 ---
 
