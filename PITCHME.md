@@ -48,3 +48,19 @@ Makes curl unhappy
 ## This is a problem because...
 
 Machine readability and scraping
+
+---
+
+## Not all bad
+
++++
+
+Easy hosting
+
++++
+
+
+<div style="text-align: center">
+<p>Every user gets a private app instance.</p>
+<p>Globals be damned!</p>
+</div>
