@@ -4,7 +4,7 @@
 
 +++
 <p class="fragment current-visible">persistent text<p>
-<p class="fragment current-visible minimize-header">persistent text<p>
+<p class="fragment current-visible minimized-header">persistent text<p>
 
 ---
 

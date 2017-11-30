@@ -7,6 +7,5 @@
 
 .visible.minimized-header {
   opacity: 1;
-  position: absolute;
   animation: minimize-header 2s ease-out;
 }
