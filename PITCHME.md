@@ -1,4 +1,10 @@
-<h1>SPA<span style="font-size: 60%">s</span> are awesome! But...</h1>
+---?image=https://media.giphy.com/media/xTk9ZNSEaGv7FtKY6s/giphy.gif
+
+<h1 style class="flash">Staticerization!</h1>
+
+---
+
+<h1 style="color: #000">SPA<span style="font-size: 60%">s</span> are awesome! But...</h1>
 
 <span class="fragment">...some food for thought.</span>
 
@@ -91,9 +97,6 @@ Blithely debug everything in the browser
   <li class="fragment">Reverse proxy SSR</li>
 </ul>
 
----?image=https://media.giphy.com/media/xTk9ZNSEaGv7FtKY6s/giphy.gif
-
-<h1 style class="flash">Staticerization!</h1>
 
 ---
 

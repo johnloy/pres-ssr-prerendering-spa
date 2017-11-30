@@ -11,7 +11,8 @@
   animation-fill-mode: forwards;
 }
 
-.reveal h2 {
+.reveal h2,
+.reveal h1 {
   color: #ffe417;
 }
 
