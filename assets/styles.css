@@ -1,11 +1,12 @@
 @keyframes minimize-header {
   to {
-    transform: translate(-50px, -50px);
+    transform: translate(-200px, -200px);
     color: green;
   }
 }
 
 .visible.minimized-header {
   opacity: 1;
-  animation: minimize-header 2s ease-out;
+  animation: minimize-header 0.5s ease-in;
+  animation-fill-mode: forwards;
 }
