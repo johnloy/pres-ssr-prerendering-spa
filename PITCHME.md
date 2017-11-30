@@ -1,4 +1,4 @@
-# SPAs are awesome! But...
+<h1>SPA<span style="font-size: 60%">s</span> are awesome! But...</h1>
 
 <span class="fragment">...some food for thought.</span>
 
@@ -33,30 +33,21 @@
 
 +++
 
-#### Video Slide Disabled
-#### [ GitPitch Offline ]
-
-<!-- .slide: id="slide2def" data-transition="concave" data-background="#A7C66B" -->
-
 ## This is a problem because...
+
++++
 
 SEO
 
 +++
 
-## This is a problem because...
-
 Page load times and CRP
 
 +++
 
-## This is a problem because...
-
 Makes curl unhappy
 
 +++
-
-## This is a problem because...
 
 Machine readability and scraping
 
@@ -66,13 +57,27 @@ Machine readability and scraping
 
 +++
 
+Fast UI updates
+
++++
+
 Easy hosting
+
+(e.g. Github Pages, Firebase, Netlify)
+
++++
+
+No need to fuss with server-side crap
 
 +++
 
 Every user gets a private app instance.
 
 Globals be damned!
+
++++
+
+Blithely debug everything in the browser
 
 ---
 
@@ -82,7 +87,7 @@ Globals be damned!
   <li class="fragment">Pre-rendering</li>
   <li class="fragment">Partial pre-rendering (SWA app shell)</li>
   <li class="fragment">Universal SSR (Server Side Rendering)</li>
-  <li class="fragment">Non-universal SSR and DOM fragment loading</li>
+  <li class="fragment">Non-universal SSR and fragment loading (e.g. Turbolinks, spfjs)</li>
   <li class="fragment">Reverse proxy SSR</li>
 </ul>
 
