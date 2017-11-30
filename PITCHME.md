@@ -4,7 +4,7 @@
 
 ---
 
-<h1 style="color: #000">SPA<span style="font-size: 60%">s</span> are awesome! But...</h1>
+<h1>SPA<span style="font-size: 60%">s</span> are awesome! But...</h1>
 
 <span class="fragment">...some food for thought.</span>
 
