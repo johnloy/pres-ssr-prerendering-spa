@@ -3,7 +3,7 @@
 <span class="fragment">...some food for thought.</span>
 
 +++
-<!-- .slide: data-transition="none" data-autoslide="3" -->
+<!-- .slide: data-transition="none" data-autoslide=3000" -->
 <p style="color: red">persistent text<p>
 +++
 <!-- .slide: data-transition="none" -->
