@@ -23,3 +23,27 @@
 
 @[9](Where's the content, yo?) 
 @[10](Right here)
+
++++
+
+## This is a problem because...
+
+SEO
+
++++
+
+## This is a problem because...
+
+Page load times and CRP
+
++++
+
+## This is a problem because...
+
+Makes curl unhappy
+
++++
+
+## This is a problem because...
+
+Machine readability and scraping
