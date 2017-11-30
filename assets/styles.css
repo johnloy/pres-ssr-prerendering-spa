@@ -1,11 +1,5 @@
 @keyframes minimize-header {
-  from {
-    position: relative;
-    top: 50px;
-    left: 50px;
-  }
   to {
-    position: absolute;
     top: 20px;
     left: 20px;
     font-size: 20px;
@@ -14,6 +8,6 @@
 }
 
 .present .minimized-header {
-  position: relative;
+  position: absolute;
   animation: minimize-header 2s ease-out;
 }
