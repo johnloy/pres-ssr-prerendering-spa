@@ -10,3 +10,7 @@
   animation: minimize-header 0.5s ease-in;
   animation-fill-mode: forwards;
 }
+
+.reveal h2 {
+  color: #ffe417;
+}
