@@ -3,11 +3,11 @@
 <span class="fragment">...some food for thought.</span>
 
 +++
-<!-- .slide: data-autoslide="3000" -->
+<!-- .slide: data-transition="none" data-autoslide="2000" -->
 <p style="color: red">persistent text<p>
 +++
 <!-- .slide: data-transition="none" -->
-<p class="minimized-header">persistent text<p>
+<p class="fragment minimized-header">persistent text<p>
 
 ---
 
