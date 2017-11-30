@@ -1,15 +1,19 @@
 @keyframes minimize-header {
   from {
-    position: static;
+    position: relative;
+    top: 50px;
+    left: 50px;
   }
   to {
     position: absolute;
-    top: 50px;
-    left: 50px;
+    top: 20px;
+    left: 20px;
     font-size: 20px;
+    color: green;
   }
 }
 
-.minimized-header {
+.present .minimized-header {
+  position: relative;
   animation: minimize-header 2s ease-out;
 }
